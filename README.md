@@ -17,3 +17,5 @@ Goalie-shutouts, powerpoint, final write up
 
 Sam- 1 dataset (Clean-up, format, lists, etc), 1 visualization that answers your question of the data set
 Teams
+
+All cleanup and formatting complete by 13th, 13th visuals, 14th summary of findings. 
