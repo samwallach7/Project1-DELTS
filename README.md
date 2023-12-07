@@ -1,7 +1,7 @@
 # Project1-DELTS
 
-Derek
-Elodie
-Lena
-Teri
-Sam
+-  Derek
+-  Elodie
+-  Lena
+-  Teri
+-  Sam
