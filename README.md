@@ -1,8 +1,8 @@
 # Project1- NHL Analysis
 
 -  Sam Wallach
--  Derek Johnson
 -  Lena Hill
+-  Derek Johnson
 -  Elodie Mwamba
 -  Teri Martin
 
