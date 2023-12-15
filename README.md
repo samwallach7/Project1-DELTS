@@ -13,7 +13,6 @@ We were interested in visualizing NHL data to document the league's progression 
 We utilized a set of files that track a variety of NHL statistics from 1917 to present. Datasets include:
 -  Team performance
 -  Player scoring
--  Goalie data
 -  NHL Draft results
 -  League end-of-season awards
 -  NHL attendance data
